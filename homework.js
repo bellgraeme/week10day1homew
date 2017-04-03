@@ -75,6 +75,6 @@ var outerFunction = function(){
 outerFunction();
 console.log('the murderer is ', murderer);
 
-//the murderer is rick
+//the murderer is rickx
 
 
